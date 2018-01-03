@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.syncthemall</groupId>
+	<groupId>de.l3s.boilerpipe</groupId>
 	<artifactId>boilerpipe</artifactId>
-	<version>1.2.2</version>
+	<version>1.2.2-patched</version>
 	<packaging>jar</packaging>
 	<name>boilerpipe</name>
 	<inceptionYear>2013</inceptionYear>
